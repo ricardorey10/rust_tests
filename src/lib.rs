@@ -9,6 +9,7 @@ mod tests {
 pub mod test_mod_1 {
     pub fn do_something() {
         println!("Doing stuff!");
+        println!("This is a new line!");
     }
 
     pub fn more_stuff() {
